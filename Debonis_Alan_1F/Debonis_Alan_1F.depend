@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1539046534 source:d:\alan debonis\debonis_alan_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"negocio.h"
+	"validaciones.h"
+
+1539046532 d:\alan debonis\debonis_alan_1f\negocio.h
+
+1538714458 d:\alan debonis\debonis_alan_1f\validaciones.h
+
+1539046926 source:d:\alan debonis\debonis_alan_1f\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1539028550 source:d:\alan debonis\debonis_alan_1f\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1538716804 source:d:\debonis_alan_1f\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1541268846 d:\debonis_alan_1f\negocio.h
+
+1541268846 d:\debonis_alan_1f\validaciones.h
+
+1541268845 source:d:\debonis_alan_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"negocio.h"
+	"validaciones.h"
+
+1541268846 source:d:\debonis_alan_1f\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1541268846 source:c:\users\alan_\desktop\debonis_alan_1f\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1541363697 c:\users\alan_\desktop\debonis_alan_1f\negocio.h
+
+1541268846 c:\users\alan_\desktop\debonis_alan_1f\validaciones.h
+
+1541360552 source:c:\users\alan_\desktop\debonis_alan_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"negocio.h"
+	"validaciones.h"
+
+1541303282 source:c:\users\alan_\desktop\debonis_alan_1f\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1538892232 source:e:\debonis_alan_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"negocio.h"
+	"validaciones.h"
+
+1538892282 e:\debonis_alan_1f\negocio.h
+
+1538714458 e:\debonis_alan_1f\validaciones.h
+
+1538869852 source:e:\debonis_alan_1f\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1538890556 source:e:\debonis_alan_1f\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1538892232 source:c:\users\mariana\desktop\debonis_alan_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"negocio.h"
+	"validaciones.h"
+
+1538942934 c:\users\mariana\desktop\debonis_alan_1f\negocio.h
+
+1538714458 c:\users\mariana\desktop\debonis_alan_1f\validaciones.h
+
+1538890556 source:c:\users\mariana\desktop\debonis_alan_1f\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1541268845 source:c:\users\barbara insaurralde\desktop\c2018-master (2)\c2018-master\c 2018\debonis_alan_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"negocio.h"
+	"validaciones.h"
+
+1541268846 c:\users\barbara insaurralde\desktop\c2018-master (2)\c2018-master\c 2018\debonis_alan_1f\negocio.h
+
+1541268846 c:\users\barbara insaurralde\desktop\c2018-master (2)\c2018-master\c 2018\debonis_alan_1f\validaciones.h
+
+1541268845 source:c:\users\barbara insaurralde\desktop\c2018-master (2)\c2018-master\c 2018\debonis_alan_1f\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1541268846 source:c:\users\barbara insaurralde\desktop\c2018-master (2)\c2018-master\c 2018\debonis_alan_1f\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
